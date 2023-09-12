@@ -8,7 +8,7 @@ export default function Invite() {
      <div className="h-[500px] opacity-40 flex bg-[#9A11FF] w-full">
      </div>
      <div className="flex -mt-[420px] justify-center absolute">
-     <div className="flex-1 w-1/3">
+     <div className="flex-1 w-1/2">
      <div className="text-[38px] pt-12 px-6 w-full font-semibold">
      The Financial Solution you have been wishing for.
    </div>
@@ -16,7 +16,7 @@ export default function Invite() {
           Join PayWayve Today
         </div>
    </div>
-   <div className="w-1/3">
+   <div className="w-1/2">
      <Image src={Ui} />
    </div>
      </div>
