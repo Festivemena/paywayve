@@ -14,8 +14,8 @@ function CTA() {
       </div>
       <div className='ml-6 mt-12'>
       <div className='w-2/3 pl-6'>
-        <div className='text-white bg-[#9A11FF] w-full h-[62px] ml-6 shadow-2xl font-bold text-center py-4 rounded-md'>
-          Join PayWayve Today
+        <div className='text-white bg-[#9A11FF] w-full text-[20px] h-[62px] ml-6 shadow-2xl font-bold text-center py-4 rounded-md'>
+          Join PayWayve
         </div>
         </div>
         <div className='flex mt-5'>

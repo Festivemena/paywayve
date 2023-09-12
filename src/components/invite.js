@@ -9,7 +9,7 @@ export default function Invite() {
      </div>
      <div className="flex -mt-[420px] justify-center absolute">
      <div className="flex-1 w-1/2">
-     <div className="text-[38px] pt-12 px-6 w-full font-semibold">
+     <div className="text-[38px] pt-12 px-28 w-full font-semibold">
      The Financial Solution you have been wishing for.
    </div>
    <div className='text-white bg-[#9A11FF] w-full h-[62px] ml-6 shadow-2xl font-bold text-center py-4 rounded-md'>
