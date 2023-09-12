@@ -12,7 +12,7 @@ export default function Invite() {
      <div className="text-[38px] pt-32 px-28 w-full font-semibold">
      The Financial Solution you have been wishing for.
    </div>
-   <div className='text-white bg-[#9A11FF] w-1/2 h-[62px] mx-48 mt-12 text-[20px] shadow-2xl font-bold text-center py-4 rounded-md'>
+   <div className='text-white bg-[#9A11FF] w-1/2 h-[62px] cursor-pointer mx-48 mt-12 text-[20px] shadow-2xl font-bold text-center py-4 rounded-md'>
           Join PayWayve
         </div>
    </div>

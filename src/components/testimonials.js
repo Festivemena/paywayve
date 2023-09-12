@@ -1,5 +1,7 @@
 export default function Testimonials() {
     return (
-     <div>Motion sensors...</div>
+     <div className="bg-[#000212] absolute w-full h-96">
+      
+     </div>
     );
   }

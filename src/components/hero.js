@@ -14,21 +14,21 @@ function CTA() {
       </div>
       <div className='ml-6 mt-12'>
       <div className='w-2/3 pl-6'>
-        <div className='text-white bg-[#9A11FF] w-full text-[20px] h-[62px] ml-6 shadow-2xl font-bold text-center py-4 rounded-md'>
+        <div className='text-white bg-[#9A11FF] cursor-pointer w-full text-[20px] h-[62px] ml-6 shadow-2xl font-bold text-center py-4 rounded-md'>
           Join PayWayve
         </div>
         </div>
         <div className='flex mt-5'>
-        <div className='text-white pt-1 flex bg-black w-1/3 h-[62px] ml-6 shadow-2xl rounded-md'>
+        <div className='text-white pt-1 flex cursor-pointer bg-black w-1/3 h-[62px] ml-6 shadow-2xl rounded-md'>
         <div className='flex'>
           <DiApple className='w-[48px] h-[48px]' />
         </div>
         <div className='flex-1'>
-          <div className='text-[12px] pt-2'>Download on the</div>
+          <div className='text-[12px]'>Download on the</div>
           <div className='text-[14px] font-bold'>Apple Store</div>
         </div>
       </div>
-      <div className='text-white pt-1 flex bg-black w-1/3 h-[62px] ml-6 shadow-2xl rounded-md'>
+      <div className='text-white pt-1 cursor-pointer flex bg-black w-1/3 h-[62px] ml-6 shadow-2xl rounded-md'>
         <div className='flex'>
           <BiLogoPlayStore className='w-[48px] h-[48px]' />
         </div>

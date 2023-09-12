@@ -3,6 +3,7 @@ import Header from '@/components/header'
 import Hero from '@/components/hero'
 import Carousel from '@/components/carousel'
 import Invite from '@/components/invite'
+import Testimonials from '@/components/testimonials'
 import Footer from '@/components/footer'
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
      </div>
      <Carousel />
      <Invite />
+     <Testimonials />
      <Footer />
     </main>
   )
