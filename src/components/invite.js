@@ -17,7 +17,7 @@ export default function Invite() {
         </div>
    </div>
    <div className="w-1/2">
-     <Image src={Ui} />
+     <Image alt="UI" src={Ui} />
    </div>
      </div>
      </div>

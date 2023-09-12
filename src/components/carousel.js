@@ -11,7 +11,7 @@ function Explainer() {
             <div>Introducing the Payway Card – your gateway to seamless transactions. With a simple tap, you can unlock a world of convenience.</div>
         </div>
         <div className='pl-12 w-1/3'>
-          <Image src={OneTap} />
+          <Image alt="OneTap" src={OneTap} />
         </div>
       </div>
         </div>

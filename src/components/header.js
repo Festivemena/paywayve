@@ -26,7 +26,7 @@ export default function Header() {
   return (
    <div className="flex px-12 items-center w-full justify-between text-center">
     <div className="flex cursor-pointer">
-        <Image src={Logo} />
+        <Image alt="Logo" src={Logo} />
     </div>
     <Menu />
    <div className="flex text-center px-2 cursor-pointer mr-10">

@@ -50,7 +50,7 @@ export default function Hero() {
         <CTA />
       </div>
       <div className='-mr-24'>
-        <Image src={HeroPic} />
+        <Image alt='Hero' src={HeroPic} />
       </div>
     </div>
   );
