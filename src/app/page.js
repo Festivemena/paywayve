@@ -5,6 +5,7 @@ import Carousel from '@/components/carousel'
 import Invite from '@/components/invite'
 import Testimonials from '@/components/testimonials'
 import Footer from '@/components/footer'
+import Partners from '@/components/partners'
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
      <Carousel />
      <Invite />
      <Testimonials />
+     <Partners />
      <Footer />
     </main>
   )

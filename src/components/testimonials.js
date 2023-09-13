@@ -13,7 +13,7 @@ function Individual() {
             <div className="text-[18px]">News caster</div>
           </div>
         </div>
-        <div className="text-[14px] bg-[#F2FCFF] py-2 text-left px-6 mt-8">
+        <div className="text-[16px] bg-[#F2FCFF] py-2 text-left px-16 mt-8">
         Using the Paywayve Card has truly transformed the way I handle my daily transactions. Whether it's making payments with a simple tap, marking attendance effortlessly, or paying for rides within the Payway partner ecosystem, this card has become an indispensable part of my life. The security measures in place also give me peace of mind, and it's such a relief to know that my transactions are protected. Plus, the fact that it's widely accepted at partner locations makes it incredibly convenient. I also appreciate the eco-friendly aspect of going paperless. It's a game-changer, and I couldn't be happier with the Payway Card – it's the future of fintech!
         </div>
         <div className="px-6 pt-8">22 Feb 2023 . 8:15 AM</div>
