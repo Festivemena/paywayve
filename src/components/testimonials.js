@@ -3,7 +3,7 @@ import { Ijeoma, Justin, Kingsley, Vector2 } from "../../public";
 
 function Individual() {
   return (
-    <div className=" bg-white shadow-3xl -mt-[530px] justify-between items-center flex z-20  absolute">
+    <div className=" shadow-3xl -mt-[530px] justify-between items-center flex z-20  absolute">
       <div className="px-20 mr-10 flex">
       <div className="w-1/2 p-4  shadow-2xl rounded-lg ">
         <div className="w-full flex">
@@ -19,7 +19,7 @@ function Individual() {
         <div className="px-6 pt-8">22 Feb 2023 . 8:15 AM</div>
       </div>
       <div className="w-1/2 shadow-2xl justify-between rounded-lg flex-1">
-        <div className="w-full p-4 h-1\2 rounded-lg">
+        <div className="w-full bg-white p-4 h-1\2 rounded-lg">
         <div className="w-full flex">
           <Image className="rounded-full" alt="Kingsley" src={Kingsley} />
           <div className="flex-1 pl-6 py-8 ">
@@ -32,7 +32,7 @@ function Individual() {
         </div>
         <div className="px-6 pt-8">22 Feb 2023 . 8:15 AM</div>
         </div>
-        <div className="w-full mt-12 p-4 h-1\2 rounded-lg">
+        <div className="w-full bg-white mt-9 p-4 h-1\2 rounded-lg">
         <div className="w-full flex">
           <Image className="rounded-full" alt="Justin" src={Justin} />
           <div className="flex-1 pl-6 py-8 ">
@@ -53,7 +53,7 @@ function Individual() {
 
 export default function Testimonials() {
     return (
-     <div className="bg-white h-full relative w-full h-96">
+     <div className="bg-white h-full pb-8 relative w-full h-96">
       <div className="w-full relative flex">
       <div className="w-1/2 h-full pt-60 top-0 left-0">
         <div className="w-full text-center text-[38px] font-bold">Don't Take Our Word For IT</div>
